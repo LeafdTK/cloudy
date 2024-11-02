@@ -1,0 +1,11 @@
+name = "cloudy"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "CLOUDY_D1"
+database_name = "cloudy"
+database_id = "7bc16aaa-0c22-4d21-a3f6-b7eaf124c0a3"
+
+[[r2_buckets]]
+binding = "marcusk-r2"
+bucket_name = "drive"
